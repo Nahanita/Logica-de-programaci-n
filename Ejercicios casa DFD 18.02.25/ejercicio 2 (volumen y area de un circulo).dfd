@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'introducir radio'
+5
+1
+5
+radio
+4
+1
+19
+'introducir altura'
+5
+1
+6
+altura
+6
+2
+1
+v
+25
+3.1416*(radio)^2*(altura)
+1
+a
+50
+(2*3.1416)*(radio)*(altura) + (2*3.1416)*(radio)^2
+4
+1
+1
+v
+4
+1
+1
+a
+1

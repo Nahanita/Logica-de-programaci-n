@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'digite el numero de hombres de hay en el salon'
+5
+1
+2
+NH
+4
+1
+49
+'ingrese el numero de mujeres que hay en el aula'
+5
+1
+2
+NM
+6
+3
+6
+total 
+5
+NH+NM
+7
+porcenH
+14
+(NH*100)/total
+7
+porcenM
+15
+(NM*100)/total 
+4
+1
+7
+porcenH
+4
+1
+7
+porcenM
+1

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'ingrese el numero de la base mayor del trapecio'
+5
+1
+7
+bmayor 
+4
+1
+35
+'introduzca el numero de la altura'
+5
+1
+1
+h
+6
+2
+6
+bmenor
+1
+6
+4
+area
+19
+(bmayor*bmenor/2)*h
+4
+1
+4
+area
+1

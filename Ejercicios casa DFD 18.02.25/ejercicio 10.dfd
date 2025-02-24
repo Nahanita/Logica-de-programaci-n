@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'introduce un numero en horas'
+5
+1
+5
+horas
+4
+1
+32
+'digitliza un numero en minutos'
+5
+1
+7
+minutos
+4
+1
+31
+'ingresa un numero en segundos'
+5
+1
+8
+segundos
+6
+3
+2
+t1
+10
+horas*3600
+2
+t2
+10
+minutos*60
+2
+t3
+10
+segundos*1
+6
+1
+5
+total
+8
+t1+t2+t3
+4
+1
+5
+total
+1

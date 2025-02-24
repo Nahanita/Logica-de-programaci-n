@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Por favor. Ingrese un numero'
+5
+1
+7
+cateto1
+4
+1
+32
+'Por favor. Ingrese otro numero'
+5
+1
+7
+cateto2
+6
+2
+4
+hipo
+23
+(cateto1)^2+(cateto2)^2
+4
+raiz
+10
+sqrt(hipo)
+4
+1
+4
+hipo
+4
+1
+4
+raiz
+1
