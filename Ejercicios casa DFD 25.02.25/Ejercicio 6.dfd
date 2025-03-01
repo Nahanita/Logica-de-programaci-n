@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Bienvenido, Señor usuario, su nombre (entre comillas sencillas)'
+5
+1
+6
+nombre
+4
+1
+60
+'Ahora escriba su signo zodiacal (entre comillas sencillas)'
+5
+1
+5
+signo
+7
+0
+1
+15
+signo = 'Virgo'
+4
+1
+42
+'La persona no es de signo zodiacal virgo'
+13
+4
+1
+51
+'Entonces ',nombre, ' su signo zodiacal es virgo'  
+13
+1

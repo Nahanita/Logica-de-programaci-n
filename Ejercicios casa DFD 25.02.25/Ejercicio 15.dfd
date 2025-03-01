@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+'Bienvenido, Señor usuario, por favor digite el valor de su producto'
+5
+1
+12
+total_compra
+5
+1
+12
+pago_cliente
+7
+0
+1
+28
+pago_cliente >= total_compra
+4
+1
+19
+'Pago Insuficiente'
+13
+4
+1
+15
+'Pago completo'
+13
+1
