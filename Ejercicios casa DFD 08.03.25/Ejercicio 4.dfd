@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'Bienvenido, señor usuario, por favor digite el monto total de su compra'
+5
+1
+6
+compra
+4
+1
+63
+'Ahora responda si tiene tarjeta de cliente frecuente (sí/no)' 
+5
+1
+7
+tarjeta
+7
+0
+1
+29
+compra>150000 OR tarjeta='sí'
+4
+1
+32
+'El total a pagar es de ',compra
+13
+6
+2
+4
+desc
+10
+compra*0.1
+5
+total
+11
+compra-desc
+4
+1
+98
+'¡FELICIDADES! tienes el 10% de descuento en el total de su compra, su valor a pagar es de ',total
+13
+1

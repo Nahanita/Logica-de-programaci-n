@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Bienvenido, señor usuario, por favor digite su edad'
+5
+1
+4
+edad
+4
+1
+28
+'¿Cuenta con membresía VIP?'
+5
+1
+9
+membresia
+7
+0
+1
+27
+edad>=18 AND membresia='sí'
+4
+1
+16
+'No puede pasar'
+13
+4
+1
+13
+'Puede pasar'
+13
+1

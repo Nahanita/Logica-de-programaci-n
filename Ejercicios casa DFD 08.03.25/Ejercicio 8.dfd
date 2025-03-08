@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Bienvenido, señor usuario, por favor digite su edad'
+5
+1
+4
+edad
+4
+1
+57
+'Por favor, escriba si tiene algun titulo previo (sí/no)'
+5
+1
+6
+titulo
+7
+0
+1
+24
+edad<30 AND titulo='no' 
+4
+1
+40
+'El valor de su matricula es de 2500000'
+13
+4
+1
+24
+'Su matrícula es gratis'
+13
+1

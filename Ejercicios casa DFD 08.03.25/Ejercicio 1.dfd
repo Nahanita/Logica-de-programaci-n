@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'Bienvenido, señor usuario, por favor digite primero su nombre y después su contraseña'
+5
+1
+18
+nombre, contraseña
+7
+0
+1
+33
+nombre=nombre AND contraseña=1234
+4
+1
+17
+'acceso denegado'
+13
+4
+1
+18
+'acceso permitido'
+13
+1

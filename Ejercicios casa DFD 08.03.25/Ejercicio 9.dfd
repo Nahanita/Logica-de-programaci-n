@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Bienvenido, señor usuario, por favor digite su salario mensual en dolares'
+5
+1
+7
+salario
+4
+1
+54
+'Digite su estado civil (casado, soltero, divorciado)'
+5
+1
+12
+estado_civil
+7
+0
+1
+39
+estado_civil='soltero' AND salario>3000
+7
+0
+1
+38
+estado_civil='casado' AND salario>4000
+4
+1
+30
+'Debe pagar el 5% de impuesto'
+13
+4
+1
+31
+'Debe pagar el 15% de impuesto'
+13
+13
+4
+1
+31
+'Debe pagar el 20% de impuesto'
+13
+1

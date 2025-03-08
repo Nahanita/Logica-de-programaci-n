@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'Bienvenido, señor usuario, por favor digite su puntaje crediticio'
+5
+1
+10
+crediticio
+4
+1
+49
+'Ahora digite el valor de sus ingresos mensuales'
+5
+1
+8
+ingresos
+7
+0
+1
+35
+crediticio>700 AND ingresos>5000000
+4
+1
+56
+'Lo lamentamos mucho, pero su prestado ha sido denegado'
+13
+4
+1
+30
+'Su prestado ha sido aceptado'
+13
+1

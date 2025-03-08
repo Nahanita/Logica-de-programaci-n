@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'Bienvenido, señor usuario, por favor digite su promedio'
+5
+1
+9
+Promedio 
+4
+1
+79
+'Ahora digamos si materia prerequisitadas han sido aprobadas con exito (sí/no)'
+5
+1
+8
+materias
+7
+0
+1
+27
+materias='sí' OR promedio>8
+4
+1
+52
+'Su solicitud para la inscripcion ha sido rechazada'
+13
+4
+1
+81
+'¡Muchas felicidades! Su inscripcion para el curso que solicita ha sido aprobado'
+13
+1
