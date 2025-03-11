@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'Bienvenido señor usuario, por favor, digite el valor de sus dos compras'
+5
+1
+10
+pro1, pro2
+6
+3
+4
+suma
+9
+pro1+pro2
+3
+iva
+9
+suma*0.19
+5
+total
+8
+suma+iva
+4
+1
+26
+'El subtotal es de ', suma
+4
+1
+38
+'La subtotal con el el iva es de ',iva
+4
+1
+31
+'El total a pagar es de ',total
+1
